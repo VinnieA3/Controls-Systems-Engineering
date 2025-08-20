@@ -1,0 +1,2 @@
+Parsed 208 timestamps.
+Min interval: 22.00s, Max: 83897.00s, Avg: 464.74s
