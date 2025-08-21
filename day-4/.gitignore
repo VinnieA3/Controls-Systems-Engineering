@@ -1,0 +1,3 @@
+# Ignore log and CSV files generated during Day 4
+day-4/logs/*.csv
+day-4/logs/*.log

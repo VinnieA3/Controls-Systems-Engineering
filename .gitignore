@@ -13,3 +13,6 @@ venv/
 # OS cruft
 .DS_Store
 Thumbs.db
+# Day 4 logs
+day-4/logs/*.csv
+day-4/logs/*.log
