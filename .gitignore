@@ -19,3 +19,9 @@ day-4/logs/*.log
 
 # Day 5 outputs
 day-5/*.png
+
+# Day 6 logs
+day-6/logs/*
+
+# Day 6 logs
+day-6/logs/*.log

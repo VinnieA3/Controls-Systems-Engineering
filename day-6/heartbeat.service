@@ -1,0 +1,10 @@
+[Unit]
+Description=Day 6 Heartbeat Service
+
+[Service]
+ExecStart=/home/vinnie/controls-lab/day-6/heartbeat.sh
+Restart=always
+RestartSec=60
+
+[Install]
+WantedBy=default.target
