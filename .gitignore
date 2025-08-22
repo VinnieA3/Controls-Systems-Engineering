@@ -16,3 +16,6 @@ Thumbs.db
 # Day 4 logs
 day-4/logs/*.csv
 day-4/logs/*.log
+
+# Day 5 outputs
+day-5/*.png
