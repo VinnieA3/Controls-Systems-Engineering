@@ -29,3 +29,7 @@ day-6/logs/*.log
 # Day 7 logs
 day-7/logs/*.csv
 day-7/logs/*.log
+
+# Day 7 logs
+ day-7/logs/*.csv
+ day-7/logs/*.log
