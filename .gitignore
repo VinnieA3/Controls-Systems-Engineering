@@ -33,3 +33,6 @@ day-7/logs/*.log
 # Day 7 logs
  day-7/logs/*.csv
  day-7/logs/*.log
+
+# Day 8 outputs
+/day-8/summary.txt
