@@ -36,3 +36,6 @@ day-7/logs/*.log
 
 # Day 8 outputs
 /day-8/summary.txt
+
+# Day 9 build outputs
+day-9/out/*
