@@ -43,3 +43,6 @@ day-9/out/*
 # Day 11 build + run outputs
 *.png
 *.log
+
+# Day 5 charts (generated)
+day-5/*.png
